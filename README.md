@@ -1,4 +1,4 @@
-# Net Core Architectural Fundamentals
+# Net Core Architectural Fundamentals :sunglasses:
 
 - Projeto modelo do curso Fundamentos de Arquitetura de Software ministrado pelo @EduardoPires
 
